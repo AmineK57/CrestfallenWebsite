@@ -6,10 +6,7 @@ html{
     scroll-behavior: smooth;
 }
 
-img:hover{
-    transition-duration: 10s;
-    transform : rotate(1800deg);
-}
+
 a:hover{
 
    font-weight: bold; 
